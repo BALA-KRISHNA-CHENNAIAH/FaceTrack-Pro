@@ -1,0 +1,11 @@
+institution_name,My Institution
+institution_address,
+start_time,09:00
+end_time,17:00
+late_after,15
+tolerance,0.40
+cooldown,15
+frame_skip,2
+photos,5
+low_att_threshold,75
+theme,light

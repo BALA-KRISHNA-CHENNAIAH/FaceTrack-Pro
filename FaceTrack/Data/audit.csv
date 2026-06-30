@@ -1,0 +1,78 @@
+Timestamp,Action,Description,By,Result
+05-04-2026 16:31:09,LOGIN,User logged in,admin,OK
+05-04-2026 16:32:00,REGISTER,Registered Bala (ID:1),admin,OK
+05-04-2026 16:33:59,LOGOUT,Logged out,admin,OK
+05-04-2026 16:36:45,LOGIN,User logged in,admin,OK
+05-04-2026 16:38:12,LOGOUT,Logged out,admin,OK
+05-04-2026 16:57:15,LOGIN,User logged in,admin,OK
+05-04-2026 16:58:08,LOGOUT,Logged out,admin,OK
+05-04-2026 17:24:22,LOGIN,User logged in,admin,OK
+05-04-2026 17:24:30,LOGOUT,Logged out,admin,OK
+05-04-2026 20:02:16,LOGIN,User logged in,admin,OK
+05-04-2026 20:02:19,LOGOUT,Logged out,admin,OK
+07-04-2026 22:26:41,LOGIN,User logged in,admin,OK
+07-04-2026 22:30:25,LOGOUT,Logged out,admin,OK
+07-04-2026 22:34:12,LOGIN,User logged in,admin,OK
+07-04-2026 22:34:25,REBUILD,Rebuilt face data 0 OK,admin,OK
+07-04-2026 22:35:33,LOGOUT,Logged out,admin,OK
+07-04-2026 22:37:30,LOGIN,User logged in,admin,OK
+07-04-2026 22:41:24,REGISTER,Registered Madan Mohan Rao (ID:69),admin,OK
+07-04-2026 22:43:00,LOGOUT,Logged out,admin,OK
+07-04-2026 22:43:12,LOGIN,User logged in,admin,OK
+07-04-2026 22:51:41,LOGOUT,Logged out,admin,OK
+07-04-2026 22:52:33,LOGIN,User logged in,admin,OK
+07-04-2026 22:54:44,LOGOUT,Logged out,admin,OK
+14-04-2026 00:15:18,LOGIN,User logged in,admin,OK
+14-04-2026 00:15:36,REMOVE,Removed student ID:69,admin,OK
+14-04-2026 00:15:36,REMOVE_ATT,Removed attendance records for ID:69 from 1 file(s),admin,OK
+14-04-2026 00:40:36,LOGOUT,Logged out,admin,OK
+15-04-2026 01:13:48,LOGIN,User logged in,admin,OK
+15-04-2026 01:14:21,TIMETABLE,Added java on Wed 01:15-2:00,admin,OK
+15-04-2026 01:15:02,REGISTER,Registered bk (ID:1),admin,OK
+15-04-2026 01:17:03,LOGOUT,Logged out,admin,OK
+15-04-2026 01:17:13,LOGIN,User logged in,admin,OK
+15-04-2026 01:17:47,LOGOUT,Logged out,admin,OK
+15-04-2026 01:38:32,LOGIN,User logged in,admin,OK
+15-04-2026 01:39:21,LOGOUT,Logged out,admin,OK
+17-04-2026 13:35:26,LOGIN,User logged in,admin,OK
+17-04-2026 13:38:46,REMOVE,Removed student ID:1,admin,OK
+17-04-2026 13:38:47,REMOVE_ATT,Removed attendance records for ID:1 from 1 file(s),admin,OK
+17-04-2026 13:40:43,TIMETABLE,Added Java on Mon 13:40-14:40,admin,OK
+17-04-2026 13:41:10,TIMETABLE,Added Mysql on Mon 01:40-02:40,admin,OK
+17-04-2026 13:41:20,LOGOUT,Logged out,admin,OK
+17-04-2026 13:41:30,LOGIN,User logged in,admin,OK
+17-04-2026 13:42:35,REGISTER,Registered Bala Krishna Chennaiah (ID:2024016258),admin,OK
+17-04-2026 13:43:52,TIMETABLE,Added Java on Mon 01:45-02:45,admin,OK
+17-04-2026 13:44:14,TIMETABLE,Added MYSQL on Fri 13:45-14:45,admin,OK
+17-04-2026 14:04:15,LOGOUT,Logged out,admin,OK
+26-04-2026 18:37:27,LOGIN,User logged in,admin,OK
+26-04-2026 18:38:29,LOGOUT,Logged out,admin,OK
+27-04-2026 00:55:31,LOGIN,User logged in,admin,OK
+27-04-2026 00:56:41,TIMETABLE,Added sql on Mon 00:55-1:55,admin,OK
+27-04-2026 01:01:17,LOGOUT,Logged out,admin,OK
+27-04-2026 01:27:15,LOGIN,User logged in,admin,OK
+27-04-2026 01:27:59,LOGOUT,Logged out,admin,OK
+27-04-2026 08:30:27,LOGIN,User logged in,admin,OK
+27-04-2026 08:32:02,LOGOUT,Logged out,admin,OK
+27-04-2026 08:53:31,LOGIN,User logged in,admin,OK
+27-04-2026 08:54:54,LOGOUT,Logged out,admin,OK
+27-04-2026 08:56:15,LOGIN,User logged in,admin,OK
+27-04-2026 08:56:31,LOGOUT,Logged out,admin,OK
+27-04-2026 09:50:10,LOGIN,User logged in,admin,OK
+27-04-2026 09:50:41,LOGOUT,Logged out,admin,OK
+27-04-2026 10:53:22,LOGIN,User logged in,admin,OK
+27-04-2026 10:57:55,LOGOUT,Logged out,admin,OK
+27-04-2026 11:00:46,LOGIN,User logged in,admin,OK
+27-04-2026 11:04:55,REGISTER,Registered SK.Nazeer.BAsha (ID:2024000212),admin,OK
+27-04-2026 11:05:19,REGISTER,Registered SK.Nazeer.BAsha (ID:2024000212),admin,OK
+27-04-2026 11:06:59,LOGOUT,Logged out,admin,OK
+27-04-2026 13:43:23,LOGIN,User logged in,admin,OK
+27-04-2026 13:43:48,LOGOUT,Logged out,admin,OK
+27-04-2026 13:44:05,LOGIN,User logged in,admin,OK
+27-04-2026 13:44:23,LOGOUT,Logged out,admin,OK
+27-04-2026 14:25:19,LOGIN,User logged in,admin,OK
+27-04-2026 14:25:37,LOGOUT,Logged out,admin,OK
+02-05-2026 10:26:10,LOGIN,User logged in,admin,OK
+02-05-2026 10:27:08,LOGOUT,Logged out,admin,OK
+30-06-2026 16:14:15,LOGIN,User logged in,admin,OK
+30-06-2026 16:14:26,LOGOUT,Logged out,admin,OK

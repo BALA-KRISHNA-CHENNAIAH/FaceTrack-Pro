@@ -1,0 +1,35 @@
+# ═══════════════════════════════════════════════════════════
+#  FaceTrack Pro — Requirements
+#  Run: pip install -r requirements.txt --prefer-binary
+# ═══════════════════════════════════════════════════════════
+
+# ── Face Detection + Recognition ────────────────────────────
+# InsightFace provides RetinaFace (detector) + ArcFace (recogniser)
+# buffalo_l model (~300 MB) downloads automatically on first run
+insightface>=0.7.3
+onnxruntime>=1.16.0
+
+# ── Liveness Detection ───────────────────────────────────────
+# MediaPipe FaceMesh — 468 landmarks, eye blink detection
+mediapipe>=0.10.0
+
+# ── Computer Vision ──────────────────────────────────────────
+opencv-python>=4.8.0
+
+# ── Numerical Computing ──────────────────────────────────────
+numpy>=1.24.0
+
+# ── Image Processing ─────────────────────────────────────────
+Pillow>=10.0.0
+
+# ── Excel Export ─────────────────────────────────────────────
+openpyxl>=3.1.0
+
+# ── Built into Python (no install needed) ────────────────────
+# tkinter  — GUI framework
+# csv      — CSV file read/write
+# os       — file and folder operations
+# threading — background model loading
+# datetime — timestamps
+# hashlib  — password hashing
+# zipfile  — backup creation
